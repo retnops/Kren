@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86173133801",
+    "firebase_url": "https://krenwk.firebaseio.com",
+    "project_id": "krenwk",
+    "storage_bucket": "krenwk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86173133801:android:d51c3fbf428a6985",
+        "android_client_info": {
+          "package_name": "com.example.rps.krenwk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86173133801-ef5n910931oe23h144mlu0k76glt9scn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rps.krenwk",
+            "certificate_hash": "56cf34a8afe49b2d53d972bdfb79b509a2de797e"
+          }
+        },
+        {
+          "client_id": "86173133801-f1glnrqraa06sla3eqb36hdlejienqde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZSxn0Vb3LlO2ZRVz6hY2YWSvdax7dmIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86173133801-f1glnrqraa06sla3eqb36hdlejienqde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

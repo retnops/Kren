@@ -1,0 +1,9 @@
+<root>
+    <item name='android.support.design.internal.BottomNavigationItemView void setChecked(boolean)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item
+        name='android.support.design.internal.BottomNavigationItemView void setShiftingMode(boolean)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/all"
+        android:title="Mark All as Read">
+    </item>
+    <item
+        android:id="@+id/fave"
+        android:title="Favourite Message">
+    </item>
+
+    <item
+        android:id="@+id/videoroom"
+        android:title="Video Room"
+        android:icon="@drawable/ic_action_videoroom"
+        app:showAsAction="always">
+    </item>
+
+</menu>
