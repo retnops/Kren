@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lifeofcoding:cacheutilslibrary:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cacheutilslibrary-1.1.0.aar/236ac80f57f3962439392fccc55b2361/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cacheutilslibrary-1.1.0.aar/236ac80f57f3962439392fccc55b2361/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lifeofcoding/cacheutilslibrary/1.1.0/1c7e4f641acbc4035bb29885321f48fb0f4d6f39/cacheutilslibrary-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
